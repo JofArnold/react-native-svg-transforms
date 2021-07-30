@@ -28,6 +28,7 @@ I've put zero testing into things like refs so your mileage may very well vary.
 yarn add react-native-svg-transforms
 # or
 npm i react-native-svg-transforms 
+```
 
 
 In your WebPack config add the following module alias and you're good to go.
