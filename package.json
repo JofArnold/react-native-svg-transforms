@@ -1,0 +1,19 @@
+{
+  "name": "react-native-svg-transforms",
+  "author": "Jof Arnold",
+  "description": "Correctly converts transform props like translateX into web-safe `translate` prop",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JofArnold/react-native-svg-transforms"
+  },
+  "homepage": "https://github.com/JofArnold/react-native-svg-transforms",
+  "bugs": "https://github.com/JofArnold/react-native-svg-transforms",
+  "dependencies": {
+    "lodash.omit": "^4.5.0",
+    "react": "^17.0.2",
+    "react-native-web": "^0.17.1"
+  }
+}
